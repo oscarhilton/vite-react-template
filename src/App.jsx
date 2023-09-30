@@ -97,7 +97,7 @@ const ImageGallery = () => {
 };
 
 export default () => (
-  <main className='m-10'>
+  <main className='m-10 sm:m-0'>
   <div className="sm:m-auto block sm:flex sm:justify-center sm:items-center sm:h-screen sm:w-screen">
     <div className='w-full sm:w-auto'>
       <h1 className='mb-2'>AudioFormatPro.</h1>
