@@ -106,7 +106,7 @@ export default () => (
       </p>
       <MyUploadComponent />
     </div>
-    <div className='m-8 hidden sm:block w-full sm:w-auto'>
+    <div className='m-8 hidden sm:block w-full sm:w-80'>
       <div className='mt-28'>
         <ImageGallery />
         <span className='font-mono text-xs text-center w-full sm:w-auto block'
